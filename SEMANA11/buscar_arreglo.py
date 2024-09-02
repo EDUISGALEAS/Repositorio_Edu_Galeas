@@ -1,4 +1,4 @@
-a = 10
-b = 15
-su = a + b
-print=(su)
+c = 1
+b = 2
+a = c + b
+print(a)
