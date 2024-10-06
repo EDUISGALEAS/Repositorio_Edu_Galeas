@@ -1,7 +1,7 @@
 # Crear el archivo
 archivo = open("my_notes.txt", "w")
 notas = [
-    "mañana toca ir a trabajar otra vez.\n",
+    "toca ir a trabajar otra vez.\n",
     "quiero vacaciones urgente.\n",
     "FELICITAR A EDU GALEAS.\n"
 ]
